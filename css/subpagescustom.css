@@ -1,0 +1,72 @@
+.custom-heading-1.equity {
+    -webkit-text-fill-color: #e50909
+}
+.text-color-equity {
+    color: #e50909
+}
+
+
+
+.custom-heading-1.institute {
+    -webkit-text-fill-color: #091be5
+}
+
+.text-color-institute {
+    color: #091be5
+}
+
+.custom-heading-1.artists {
+    -webkit-text-fill-color: #00891a
+}
+
+.text-color-artists {
+    color: #00891a
+}
+
+.custom-heading-1.taxi {
+    -webkit-text-fill-color: #ffe100
+}
+
+.text-color-taxi {
+    color: #937100
+}
+
+.custom-heading-1.descendants {
+    -webkit-text-fill-color: #580b93
+}
+
+.text-color-descendants {
+   color: #580b93
+}
+
+.custom-heading-1 {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #ccc;
+    white-space: nowrap;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.custom-section-1 { margin-top: -100px !important;}
+
+p {color: #383737 }
+
+.badge-economy {
+    background-color: #b25f00
+}
+
+.badge-culture {
+    background-color: #000
+}
+
+.badge-governance {
+    background-color: #b94f9c
+}
+
+.badge-society {
+    background-color: #008575
+}
+
+
