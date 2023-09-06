@@ -4,8 +4,32 @@
 /*
 * General
 */
+
+.backerkit-banner {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    z-index: 1000; /* ensures the banner is above other elements */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s ease;
+  }
+  
+  .backerkit-banner:hover {
+    opacity: 0.8; /* subtle hover effect */
+  }
+  
+  .backerkit-banner a {
+    color: #ff4500; /* Makes the word 'BackerKit' stand out */
+  }
+  
 .custom-font-secondary {
-    font-family: "Lora", serif !important;
+    font-family: "Teko", serif !important;
 }
 
 .custom-highlight-text-1 {

@@ -47,9 +47,10 @@
     font-size: 3rem;
     font-weight: 700;
     letter-spacing: 1px;
+    font-family: 'Teko',sans-serif;
 }
 
-.custom-section-1 { margin-top: -100px !important;}
+.custom-section-1 {;}
 
 p {color: #383737 }
 
